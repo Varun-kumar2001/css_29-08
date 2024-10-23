@@ -1,0 +1,17 @@
+.h1tag{
+    color: brown;
+    background-color: chocolate;
+    border: 4px black dotted;
+    font-size: xx-large;
+}
+.h2tag{
+    color: red;
+    background-color: green;
+}
+.p1{
+    background-color:rgb(92, 0, 100);
+    color: rgb(195, 255, 0);
+    font-size: 80px;
+    border: 5px rgb(128, 49, 0) dotted;
+    text-transform:lowercase;
+}
